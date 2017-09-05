@@ -1,0 +1,19 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "website for abe",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CivilianZero/abe-site-vanilla.git"
+  },
+  "author": "civilianzero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CivilianZero/abe-site-vanilla/issues"
+  },
+  "homepage": "https://github.com/CivilianZero/abe-site-vanilla#readme"
+}
